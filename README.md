@@ -32,7 +32,7 @@
   https://github.com/snibox/snibox
   
 ## 其他
-1. 向初学者介绍逆向工程的知识。
+1. 向初学者介绍逆向工程的知识[英]。
   https://www.begin.re/
-2. 一篇比较简单微服务架构的解释。
+2. 一篇比较简单微服务架构的解释[英]。
   https://www.devteam.space/blog/microservice-architecture-examples-and-diagram/
