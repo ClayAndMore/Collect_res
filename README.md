@@ -18,6 +18,9 @@
 ## python
 1.  Python 3 的实例教程。通过各种可以在网页运行的小例子
   https://github.com/jerry-git/learn-python3
+  
+2. 理解python的Descriptor
+  https://www.zhihu.com/question/25391709
 
 
 ## 数据结构
