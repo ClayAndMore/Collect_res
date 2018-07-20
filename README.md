@@ -1,0 +1,38 @@
+# Collect_res
+收藏好的学习资源，浏览器的收藏夹也是不方便的
+在浏览许多好的文章后，没有时间细读，这里记录，怕丢失。
+很多都是从其他博客推荐整理，或者平日自己搜索遇到。
+
+=== 先记录下，过后整理 ==
+
+## c
+1. 从零开始讲解 C 语言，目标是写出一个 Lisp 语言的编译器
+  https://ksco.gitbooks.io/build-your-own-lisp/
+  
+## go
+1. 绍 Go 语言的语法和各种细节的开源电子书，帮助读者深入彻底地了解 Go[英]。
+  https://go101.org/article/101.html  
+2. Go 语言写的博客内核，适合在它的基础上进行开发。最大特点就是所有功能都提供 REST 接口。
+  https://github.com/toldjuuso/vertigo
+
+## python
+1.  Python 3 的实例教程。通过各种可以在网页运行的小例子
+  https://github.com/jerry-git/learn-python3
+
+
+## 数据结构
+1. 简洁图形概括所有数据结构[英]： 
+  https://www.interviewcake.com/data-structures-reference
+2. 开源的初级命令行教程，特色是配有大量的手绘图[英]
+  https://hellowebbooks.com/learn-command-line/
+  
+  
+## 工具
+1. snibox, 类似Github Gists, 个人很喜欢它的风格，可以用来放个人笔记整理。
+  https://github.com/snibox/snibox
+  
+## 其他
+1. 向初学者介绍逆向工程的知识。
+  https://www.begin.re/
+2. 一篇比较简单微服务架构的解释。
+  https://www.devteam.space/blog/microservice-architecture-examples-and-diagram/
