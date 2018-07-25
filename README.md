@@ -30,7 +30,7 @@
   https://hellowebbooks.com/learn-command-line/
   
 ## Kafka
-1. 优秀的国内教程网站
+1. 优秀的国内教程网站，其实是很好的翻译了官网
 http://orchome.com/kafka/index
 2. 专门讲解kafka的优秀国内博客
 https://blog.csdn.net/lizhitao/article/details/39499283
