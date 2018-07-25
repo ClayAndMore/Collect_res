@@ -29,6 +29,13 @@
 2. 开源的初级命令行教程，特色是配有大量的手绘图[英]
   https://hellowebbooks.com/learn-command-line/
   
+## Kafka
+1. 优秀的国内教程网站
+http://orchome.com/kafka/index
+2. 专门讲解kafka的优秀国内博客
+https://blog.csdn.net/lizhitao/article/details/39499283
+3. 知乎汇总
+https://www.zhihu.com/question/56172498/answer/148006508
   
 ## 工具
 1. snibox, 类似Github Gists, 个人很喜欢它的风格，可以用来放个人笔记整理。
