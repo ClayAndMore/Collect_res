@@ -21,6 +21,9 @@
   
 2. 理解python的Descriptor
   https://www.zhihu.com/question/25391709
+  
+### tornado
+1, 一个中午翻译文档： http://shouce.jb51.net/tornado/index.html
 
 
 ## 数据结构
