@@ -14,6 +14,9 @@
   https://go101.org/article/101.html  
 2. Go 语言写的博客内核，适合在它的基础上进行开发。最大特点就是所有功能都提供 REST 接口。
   https://github.com/toldjuuso/vertigo
+3. 通过示例学习go语言的教程。
+  https://gobyexample.com/
+
 
 ## python
 1.  Python 3 的实例教程。通过各种可以在网页运行的小例子
@@ -22,6 +25,10 @@
 2. 理解python的Descriptor
   https://www.zhihu.com/question/25391709
   
+3. python Numpy 实例教程（英）
+  https://www.pythonprogramming.in/numpy-tutorial-with-examples-and-solutions.html
+
+
 ### tornado
 1, 一个中午翻译文档： http://shouce.jb51.net/tornado/index.html
 
@@ -53,6 +60,9 @@ https://www.zhihu.com/question/56172498/answer/148006508
   https://www.begin.re/
 2. 一篇比较简单微服务架构的解释[英]。
   https://www.devteam.space/blog/microservice-architecture-examples-and-diagram/
+3. 计算机科学所用知识
+  http://blog.jobbole.com/114573/
+
   
   
 ## 文章
